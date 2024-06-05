@@ -9,7 +9,7 @@ const Login = () => {
       <div className="flex flex-col w-1/3 h-auto bg-white text-black justify-center items-center p-5 rounded-xl gap-5">
         <div className="flex flex-col justify-center items-center">
           <div className="">
-            <SVG.MentionLogoBlack />
+            <SVGs.MentionLogoBlack />
           </div>
           <div className="text-left text-2xl">Welcome To Mention</div>
         </div>
