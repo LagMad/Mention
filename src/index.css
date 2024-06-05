@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-style: normal;
+  src: url('./assets/fonts/Poppins-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-style: bold;
+  src: url('./assets/fonts/Poppins-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-style: semibold;
+  src: url('./assets/fonts/Poppins-SemiBold.otf') format('opentype');
+}
