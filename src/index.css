@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @font-face {
   font-family: 'Poppins';
   font-weight: 400;
@@ -17,4 +21,12 @@
   font-weight: 600;
   font-style: semibold;
   src: url('./assets/fonts/Poppins-SemiBold.otf') format('opentype');
+}
+
+.form-group {
+  border-color: transparent;
+}
+
+.form-group:focus-within {
+  border-color: var(--cust-green);
 }
